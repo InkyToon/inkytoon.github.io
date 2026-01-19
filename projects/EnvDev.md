@@ -6,4 +6,4 @@ Mise en place d'un environnement de développement reproductible à plus grande 
 - fichier de configuration linux
 - Installations linux classiques
 
-**[Retour](../README.md)**  
+**[Retour](../)**  

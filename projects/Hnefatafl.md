@@ -10,4 +10,4 @@ Les pièces se déplacent verticalement et horizontalement et capture en encercl
 - POO
 - QTCreator
 
-**[Retour](../README.md)**  
+**[Retour](../)**  

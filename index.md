@@ -27,3 +27,9 @@ Vous trouverez ici une sélection de projets réalisés au cours de mon cursus, 
 
 - **[Hnefatafl — Jeu de plateau en C++](projects/Hnefatafl.md)**  
   Implémentation d’un jeu de stratégie nordique en C++.
+
+Développement d'un jeu vidéo type rétro (en C++) Coordination (Git), Répartition de travail (Miro), Communication (Teams). Gestion du projet informatique avec Méthode agile / Scrum.
+Mise en place de serveur web (Apache) sur un Raspberry Pi (UNIX/Linux).
+Création (Oracle) et l'exploitation (Python) d'une base de données.
+L'installation d'un poste pour le développement, Mise en place d’un OS et outils associés.
+Réalisation d’un site web avec Symfony en relation avec des capteurs via une API REST. Gestion du projet informatique avec Méthode agile / Scrum.

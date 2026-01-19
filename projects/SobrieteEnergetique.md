@@ -29,4 +29,4 @@ Sobriété énergétique est un site web réalisé en groupe de 4 (cadre SCRUM) 
 - Teams
 - Miro
 
-**[Retour](../README.md)**  
+**[Retour](../)**  

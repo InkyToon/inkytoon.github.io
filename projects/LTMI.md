@@ -1,6 +1,6 @@
 
 ## La tour maléfique infernale
-La tour maléfique infernale est un jeu vidéo mené en groupe de 4. Ce jeu de type "RogueLike" propose un style de jeu simple : Apparition simple, monstres, clés, étages et boss final. 
+La tour maléfique infernale est un jeu vidéo mené en groupe de 4 réalisé dans le cadre d'un projet évalué. L'objectif était simplement de créer un jeu vidéo. Notre création est donc un jeu de type "RogueLike". Il propose un style de jeu simple : Apparition simple, monstres, clés, étages et boss final. 
 
 <!-- Image 1 centrée -->
 <p align="center">
@@ -45,4 +45,4 @@ Ce travail a été réalisé avec la méthode agile (cadre SCRUM). Pour la conce
 - QTCreator
 - Teams + Miro
 
-**[Retour](../README.md)**  
+**[Retour](../)**  
