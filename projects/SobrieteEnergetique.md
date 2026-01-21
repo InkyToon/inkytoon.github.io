@@ -1,5 +1,12 @@
-## Sobriété énergétique
-Sobriété énergétique est un site web réalisé en groupe de 4 (cadre SCRUM) ayant pour la sobriété énergétique de l'IUT. Pour ce faire, des ESP32 étaient à disposition de chaque équipe permettaant la récupération des données via des capteurs. Le chemin des données était le suivant :
+# Sobriété énergétique
+
+## Introduction
+
+Ce projet a été réalisé en BUT2 lors d'une SAE (Situation d'apprentissage évaluée) en groupe de 6 ayant pour but la sobriété énergétique de l'IUT. Nous avions alors de faux client qui nous éclairait sur leur volonté (température, qualité d'air) pour avoir un IUT auto-géré en terme de sobriété énergétique.
+
+## Travail effectué
+
+Pour ce faire, des ESP32 étaient à disposition de chaque équipe permettaant la récupération des données via des capteurs. Le chemin des données était le suivant :
 
 -> Récupération des données via les différents capteurs avec le MicroControlleur\
 -> Envoi des infos des capteurs à l'API hébergée par l'IUT\
@@ -28,5 +35,6 @@ Sobriété énergétique est un site web réalisé en groupe de 4 (cadre SCRUM) 
 - VS Code
 - Teams
 - Miro
+- Discord
 
 **[Retour](../index.md)** 

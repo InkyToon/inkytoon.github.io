@@ -1,6 +1,19 @@
 
-## La tour maléfique infernale
-La tour maléfique infernale est un jeu vidéo mené en groupe de 4 réalisé dans le cadre d'un projet évalué. L'objectif était simplement de créer un jeu vidéo. Notre création est donc un jeu de type "RogueLike". Il propose un style de jeu simple : Apparition simple, monstres, clés, étages et boss final. 
+# La tour maléfique infernale
+
+## Introduction
+
+Ce projet a été réalisé en BUT1 lors d'une SAE (Situation d'apprentissage évaluée) en groupe de 4. Ici, l'idée était de créer un jeu vidéo en C++ avec une grande liberté.
+
+## Travail effectué
+
+1) ### Recherche
+
+Dans un premier temps, il fallu trouver un univers, un type de jeu et développer une narration et un gameplay. Ce qui a été le résultat d'une [première présentation](https://docs.google.com/presentation/d/1quiC0WuXoXVwYDQA5n-dLergxPfN4kf24JbCGkTFvRo/edit?usp=sharing).
+
+2) ### Realisation
+
+Notre création est donc un jeu de type "RogueLike". Il propose un style de jeu simple : Apparition simple, monstres, clés, étages et boss final.
 
 <!-- Image 1 centrée -->
 <p align="center">
@@ -45,16 +58,19 @@ La tour maléfique infernale est un jeu vidéo mené en groupe de 4 réalisé da
 </div>
 
 
-
-Ce travail a été réalisé avec la méthode agile (cadre SCRUM). Pour la conception du jeu, un [cahier des charges](https://docs.google.com/document/d/1zSflqUJoOf7Ham5kGEMiK747c1gzN_cbQQUpa1HrMTg/edit?tab=t.0#heading=h.ifqz8q80v020) a été élaboré et plusieurs livrables ont été livré lors des différentes itérations.
+Ce travail a été réalisé avec la méthode agile (cadre SCRUM). Pour la conception du jeu, un [cahier des charges](https://docs.google.com/document/d/160T0izWYTu_kSBnX-4O9FEeKiQ2eUpKRnv1BE-UT5M4/edit?usp=sharing) a été élaboré et plusieurs livrables ont été livré lors des différentes itérations (voir [présentation](https://docs.google.com/presentation/d/1quiC0WuXoXVwYDQA5n-dLergxPfN4kf24JbCGkTFvRo/edit?usp=sharing) pour les livrables attendus).
 
 **Langages et programmation :**
 - C++
 - Programmation orientée objet
+- Jeu 2D
 
 **Outils, environnements et gestion de projet :**
 - Git
+- Scrum
 - QTCreator
-- Teams + Miro
+- Teams
+- Miro
+- Discord
 
 **[Retour](../index.md)** 
