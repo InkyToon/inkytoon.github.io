@@ -6,11 +6,11 @@ Ce projet a été réalisé en BUT1 lors d'une SAE (Situation d'apprentissage é
 
 ## Travail effectué
 
-1) ### Préparation
+### 1) Préparation
 
 Pour répondre à cette demande, la première étape fut de réaliser un [dossier d'étude](https://drive.google.com/file/d/1I6ddPW9-iO7AsYjqLFom1GBeReJJ3R68/view?usp=sharing) montrant 3 solutions hardware et software différentes possibles. Enfin une conclusion pour la solution retenue par notre équipe.
 
-1) ### Réalisation
+### 2) Realisation
 
 La deuxième étape de cette SAE a ensuite été de mettre en place un Raspberry Pi 4 simulant la configuration recommandée à l'entreprise. Étant donné que la configuration devait être reproductible, une [documentation détaillée en anglais](https://docs.google.com/document/d/1KWQdAyzpt_3yl-arXB8FyvJgDNDjLMHPVRfnHwamIMA/edit?usp=sharing) a été rédigée montrant la mise en place de l’OS, les logiciels à installer et le changement du fond d'écran.
 

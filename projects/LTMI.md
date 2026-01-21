@@ -7,11 +7,11 @@ Ce projet a été réalisé en BUT1 lors d'une SAE (Situation d'apprentissage é
 
 ## Travail effectué
 
-1) ### Recherche
+### 1) Recherche
 
 Dans un premier temps, il fallu trouver un univers, un type de jeu et développer une narration et un gameplay. Ce qui a été le résultat d'une [première présentation](https://docs.google.com/presentation/d/1quiC0WuXoXVwYDQA5n-dLergxPfN4kf24JbCGkTFvRo/edit?usp=sharing).
 
-2) ### Realisation
+### 2) Realisation
 
 Notre création est donc un jeu de type "RogueLike". Il propose un style de jeu simple : Apparition simple, monstres, clés, étages et boss final.
 

@@ -9,6 +9,7 @@ Durant cette nuit, des partenaires lancent des défis (par exemple : interface w
 ## Le Village Numérique Résistant
 
 L'événement de 2025 avait pour sujet principal : Comment les établissements scolaires peuvent-ils tenir tête aux Big Tech ?
+
 L'objectif ici était donc de donner la possibilité de montrer aux établissements scolaires qu'il était possible de se passer des Big Tech et même faire des économies d'argent.
 Le sujet a été porté par un collectif d'enseignants pour valoriser la démarche NIRD,  Numérique Inclusif, Responsable et Durable.\
 Notre équipe était formée de 5 personnes. 3 personnes se concentrant sur les objectifs donnés par les entreprises et 2 autres personnes, moi inclus, se concentrant sur l'objectif principal.

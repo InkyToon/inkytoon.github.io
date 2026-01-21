@@ -1,4 +1,4 @@
-# Portfolio de Paul v2
+# Portfolio de Paul
 
 Bienvenue sur mon portfolio.  
 Vous trouverez ici une sélection de projets réalisés au cours de mon cursus, illustrant mes compétences en développement logiciel et en conception d’applications.

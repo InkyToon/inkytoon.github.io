@@ -17,8 +17,8 @@ Ici, j'ai travaillé seul sur la refonte globale du site tout en ayant un code m
 - Ajout de nouvelles informations de 2 nouveaux fournisseurs
 
 Le chemin des données était le suivant :\
--> API Fournisseur
--> Backend qui récupère les informations des fournisseurs et les reformattent pour l'affichage voulu
+-> API Fournisseur\
+-> Backend qui récupère les informations des fournisseurs et les reformattent pour l'affichage voulu\
 -> Frontend qui permet l'affichage des données proprement
 
 
